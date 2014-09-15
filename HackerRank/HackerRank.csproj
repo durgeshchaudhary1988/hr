@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="game-of-thrones.cs" />
     <Compile Include="halloween-party.cs" />
     <Compile Include="maximizing-xor.cs" />
     <Compile Include="palindrome-index.cs" />

@@ -9,7 +9,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            maximizing_xor.findMaxXORCount(10,15);
+            //game_of_thrones.IsPalindromePossible();
+            //maximizing_xor.findMaxXORCount(10,15);
             //halloween_party.maxChocolate();
             //the_love_letter_mystery.makePalindrome();
             //service_lane.findLargestVehicle();
