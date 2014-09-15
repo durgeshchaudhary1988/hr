@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="halloween-party.cs" />
+    <Compile Include="maximizing-xor.cs" />
     <Compile Include="palindrome-index.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
