@@ -44,6 +44,7 @@
     <Compile Include="palindrome-index.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="service-lane.cs" />
     <Compile Include="utopian-tree.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
