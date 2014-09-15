@@ -9,7 +9,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            palindrome_index.makePalindrome();
+            //utopian_tree.getHeight();
+            //palindrome_index.makePalindrome();
             Console.Write("Done..");
             Console.ReadLine();
         }
